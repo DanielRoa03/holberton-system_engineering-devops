@@ -1,2 +1,2 @@
 #!/bin/bash
-su x betty hello
+-rwxr--r-- hello betty
