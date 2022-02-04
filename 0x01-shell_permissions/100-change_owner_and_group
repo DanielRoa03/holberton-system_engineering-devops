@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo+chgrp vicent:taff
+chown vicent:taff
