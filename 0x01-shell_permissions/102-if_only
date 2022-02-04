@@ -1,2 +1,2 @@
 #!/bin/bash
-chwon guillaume hello vincent
+chwon --from=guillaume vinvent
