@@ -1,2 +1,2 @@
 #!/bin/bash
-chwon --reference hello vincent = guillaume
+chwon guillaume hello vincent
