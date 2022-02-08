@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -l root, --after-context=/etc/passwd=-3
+grep -A 3 root /etc/passwd
