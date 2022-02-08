@@ -1,2 +1,2 @@
 #!/bin/bash
-find /PATH/direcory/ -maxdepth 1 -type d | wc -lc
+find /$PATH/direcory/ -maxdepth 1 -type d | wc -lc
