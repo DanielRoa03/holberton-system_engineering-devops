@@ -1,2 +1,2 @@
 #!/bin/bash
-expr  $TRUEKNOWLEDGE=(($64 + $64))
+expr $TRUEKNOWLEDGE + $64
