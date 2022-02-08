@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -n | root head -n 3 /etc/passwd | tail -n 1
+grep -l root, --after-contex=/etc/passwd-3 
